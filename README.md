@@ -7,7 +7,7 @@
 - 游戏类型：回合制卡牌策略 Roguelike
 - 开发环境：Godot 4 / C# / .NET
 - 团队：非常六加一队
-- 我的职责：策划为主，兼任部分程序与音频工作
+- 我的职责：策划为主，同时负责部分程序实现、Bug 修复与音频接入
 - 项目状态：已完成比赛版本
 
 ## 我的工作
@@ -23,23 +23,17 @@
 - [项目介绍](docs/project-overview.md)
 - [个人贡献说明](docs/personal-contribution.md)
 - [AI 使用说明](docs/ai-usage.md)
-- [作品集上传清单](docs/upload-checklist.md)
+- [Release 展示资源](https://github.com/T3L000/DreamCorridor-Portfolio/releases)
+
+## 截图展示
+
+![主界面](assets/screenshots/主界面.png)
+
+![地图](assets/screenshots/地图.png)
+
+![战斗](assets/screenshots/战斗.png)
 
 ## 素材说明
 
-本仓库作为作品集展示页，不直接公开完整团队工程与大型安装包。展示视频、安装包和工程文件建议通过 GitHub Releases、网盘或比赛提交平台提供。
-
-本地原始素材位于：
-
-```text
-E:\Download\working\梦境回廊
-```
-
-## 可展示素材
-
-- 游戏展示视频：`游戏展示.mp4`
-- 游戏安装包：`游戏安装包.rar`
-- 工程文件：`DreamCard（工程文件）.rar`
-- 游戏介绍：`游戏介绍.md`
-- 团队简介：`非常六加一简介.txt`
+本仓库作为作品集展示页，不直接公开完整团队工程与大型安装包。展示视频、安装包等大型文件通过 GitHub Releases 或比赛提交平台提供。
 
