@@ -23,7 +23,7 @@
 - [项目介绍](docs/project-overview.md)
 - [个人贡献说明](docs/personal-contribution.md)
 - [AI 使用说明](docs/ai-usage.md)
-- [Release 展示资源](https://github.com/T3L000/DreamCorridor-Portfolio/releases)
+- [Release 展示资源](https://github.com/T3L000/DreamCorridor-Portfolio/releases/tag/v1.0)
 
 ## 截图展示
 
@@ -35,5 +35,8 @@
 
 ## 素材说明
 
-本仓库作为作品集展示页，不直接公开完整团队工程与大型安装包。展示视频、安装包等大型文件通过 GitHub Releases 或比赛提交平台提供。
+本仓库作为作品集展示页，不直接公开完整团队工程。
 
+- 截图文件保存在 [assets/screenshots](assets/screenshots)。
+- 展示视频和游戏安装包保存在 [GitHub Releases v1.0](https://github.com/T3L000/DreamCorridor-Portfolio/releases/tag/v1.0)。
+- 大型压缩包和视频文件不放入 Git 仓库正文，避免仓库体积过大。
