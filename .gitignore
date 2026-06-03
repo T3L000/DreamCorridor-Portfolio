@@ -1,0 +1,13 @@
+# Large deliverables should be uploaded through GitHub Releases or external links.
+*.rar
+*.zip
+*.7z
+*.mp4
+*.mov
+*.avi
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+
