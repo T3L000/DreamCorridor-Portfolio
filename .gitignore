@@ -6,8 +6,10 @@
 *.mov
 *.avi
 
+# Local original deliverables copied next to the portfolio repository.
+梦境回廊/
+
 # Local/editor files
 .DS_Store
 Thumbs.db
 *.tmp
-
